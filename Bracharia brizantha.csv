@@ -1,0 +1,589 @@
+species,lat,long,country,Occurrence,year,optional
+Brachiaria brizantha (A.Rich.) Stapf,-12.45,31.3,Zambia,PRESENT,2023,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.576389,31.175278,South Africa,PRESENT,2019,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.71492,37.18283,Kenya,PRESENT,2019,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.41917,7.1712,Nigeria,PRESENT,2018,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.42205,7.1757,Nigeria,PRESENT,2018,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.44882,7.16853,Nigeria,PRESENT,2018,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.75006,37.15853,Kenya,PRESENT,2018,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.010106,1.658095,Benin,PRESENT,2016,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.01137,1.66159,Benin,PRESENT,2016,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.010166,1.658895,Benin,PRESENT,2016,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.01133,1.66049,Benin,PRESENT,2016,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-5.49796,30.56701,"Tanzania, United Republic of",PRESENT,2014,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,3.11169,33.38092,Uganda,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-12.45,31.283333,Zambia,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.859,2.463,Benin,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.0166,1.6666,Benin,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.1,1.4166,Benin,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.35,1.05,Benin,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.0986,2.6301,Benin,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.7266,2.7109,Benin,PRESENT,2013,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.677222,35.185556,"Tanzania, United Republic of",PRESENT,2012,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.694444,35.315,"Tanzania, United Republic of",PRESENT,2012,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.34472,35.76722,"Tanzania, United Republic of",PRESENT,2010,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-15.167222,13.321111,Angola,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.554905,2.456143,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.591656,2.423088,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.611584,2.417177,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.637729,2.408701,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.671386,2.341342,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.544468,2.475577,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.571061,2.473602,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.603754,2.521431,Benin,PRESENT,2009,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.590975,2.483801,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.608881,2.464211,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.605004,2.446616,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.606178,2.500375,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.616691,2.434265,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.61895,2.433315,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.628977,2.427452,Benin,PRESENT,2008,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.536924,31.018174,Uganda,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.707192,1.271707,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.707709,0.97948,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.706349,0.982972,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.806376,1.236302,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.930116,1.446415,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.847179,1.229435,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.6166,1.2666,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.177778,33.756944,Malaysia,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.183333,33.756389,Malaysia,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.0164,1.549412,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.017895,1.037904,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.147946,1.422425,Benin,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.796389,30.910833,South Africa,PRESENT,2006,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.236667,33.771389,Malawi,PRESENT,2005,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.13007,1.90512,Benin,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.13466,1.91076,Benin,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.13223,1.90614,Benin,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.594148,30.988129,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.63363,30.981414,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.594426,30.981231,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.593624,30.988587,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.591537,30.992845,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.591537,30.992657,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.630502,30.980256,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.6599,30.968991,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.59347,30.988659,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.633694,30.981234,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.660159,30.982014,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.632617,30.980336,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-6.748055,31.625833,"Tanzania, United Republic of",PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,2.25,34.45,Uganda,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,30.375,South Africa,PRESENT,2004,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.311389,34.479444,"Tanzania, United Republic of",PRESENT,2003,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.38333,34.05,Uganda,PRESENT,2003,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.55,13.916667,Cameroon,PRESENT,2003,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-27.125278,31.375,Eswatini,PRESENT,2002,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.305824,2.977014,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.025913,2.255811,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.468018,2.253797,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.70882,2.277591,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.403445,2.740558,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.455833,28.622778,South Africa,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.458889,28.651667,South Africa,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.220334,1.358417,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.333727,1.343542,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.318159,1.347823,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.300965,1.347868,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.300998,1.347902,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.214147,1.34908,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.804627,1.864182,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.243841,1.539942,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.406436,1.475274,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.048332,1.585535,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.575958,1.590961,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.288595,1.487997,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.916802,1.821762,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.91014,1.830329,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.025556,31.420556,"Tanzania, United Republic of",PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.02555,31.42055,"Tanzania, United Republic of",PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.28583,1.47111,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.285917,1.471217,Benin,PRESENT,2001,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-17.59167,30.59167,Zimbabwe,PRESENT,2000,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.551111,33.681667,Malawi,PRESENT,2000,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.751667,33.8875,Malawi,PRESENT,2000,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.432778,36.096944,"Tanzania, United Republic of",PRESENT,2000,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.13333,1.45,Benin,PRESENT,2000,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.133333,1.45,Benin,PRESENT,2000,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.320101,2.854234,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.175604,1.351029,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.282739,1.553757,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.168942,1.596589,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.617778,35.623889,"Tanzania, United Republic of",PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.61777,35.62388,"Tanzania, United Republic of",PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.95451,2.381919,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.073867,2.148459,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.021111,31.6375,"Tanzania, United Republic of",PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.019444,31.619722,"Tanzania, United Republic of",PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.43417,1.53583,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.02111,31.6375,"Tanzania, United Republic of",PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.01944,31.61972,"Tanzania, United Republic of",PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.44167,1.55833,Benin,PRESENT,1999,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.01128,1.66189,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.13333,1.46667,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.133333,1.466667,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.127638,1.470958,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.11875,1.44009,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.342392,2.627618,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.18333,2.21667,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.010056,1.659395,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.9,37.566667,Ethiopia,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.97183,2.49267,Benin,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.9,37.56667,Ethiopia,PRESENT,1998,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.0041,1.6584,Benin,PRESENT,1997,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-15.516667,28.45,Zambia,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.85,29.61667,Zambia,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.53333,14.76667,Congo,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.166667,-2.366667,Ghana,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.16667,-2.36667,Ghana,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.1,-2.22,Ghana,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.01333,1.65222,Benin,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.013333,1.652222,Benin,PRESENT,1996,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.6,32.016667,Zambia,PRESENT,1995,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-19.375,17.875,Namibia,PRESENT,1995,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-19.125,18.625,Namibia,PRESENT,1995,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.1,31.266667,Eswatini,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.1,31.25,Eswatini,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.625,18.625,Namibia,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.666667,32.066667,Zambia,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.41889,2.61722,Benin,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.43,2.62,Benin,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.766667,30.65,South Africa,PRESENT,1994,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,31.375,Eswatini,PRESENT,1993,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,31.125,Eswatini,PRESENT,1993,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.266667,32.583333,Uganda,PRESENT,1993,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,30.875,South Africa,PRESENT,1992,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.875,31.125,South Africa,PRESENT,1992,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.375,27.875,South Africa,PRESENT,1991,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.833333,33.333333,"Tanzania, United Republic of",PRESENT,1991,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.83333,33.33333,"Tanzania, United Republic of",PRESENT,1991,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.016667,1.666667,Benin,PRESENT,1991,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.804627,1.864182,Benin,PRESENT,1991,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,31.125,Eswatini,PRESENT,1991,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.375,31.375,South Africa,PRESENT,1990,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.366667,32.583333,Uganda,PRESENT,1990,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.36666,32.58333,Uganda,PRESENT,1990,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.6,35.633333,"Tanzania, United Republic of",PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.6,35.63333,"Tanzania, United Republic of",PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.516667,35.166667,"Tanzania, United Republic of",PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.96667,33.36667,Malawi,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.51666,35.16666,"Tanzania, United Republic of",PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.133333,32,Eswatini,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.533333,31.033333,Eswatini,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.866667,31.283333,Eswatini,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.066667,31.116667,Eswatini,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.4,35.38333,Malawi,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.983334,33.666667,Malawi,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-12.55,30.366667,Zambia,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7,37.9,Ethiopia,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.13,1.22,Togo,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.01,1.06,Togo,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.1,1.2,Togo,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.166667,23.216667,Central African Republic,PRESENT,1989,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.3,30.483333,Uganda,PRESENT,1988,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.3,30.48333,Uganda,PRESENT,1988,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.633333,12.633333,Cameroon,PRESENT,1988,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.125,30.375,South Africa,PRESENT,1988,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.516667,35.166667,"Tanzania, United Republic of",PRESENT,1988,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.51666,35.16666,"Tanzania, United Republic of",PRESENT,1988,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-15.933333,22.983333,Zambia,PRESENT,1987,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.641297,31.301958,"Tanzania, United Republic of",PRESENT,1987,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,31.125,Eswatini,PRESENT,1987,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.55,32.75,Zimbabwe,PRESENT,1987,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.366667,32.916667,Zimbabwe,PRESENT,1987,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.125,31.125,South Africa,PRESENT,1987,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.125,30.375,South Africa,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,31.125,Eswatini,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.125,30.125,South Africa,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.7,30.35,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.266667,29.616667,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.583333,30.416667,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.55,30.383333,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.283333,29.65,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.783333,30.233333,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.416667,30.483333,Burundi,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.37,30.52,Uganda,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-22,30.516666,Zimbabwe,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.36667,30.51667,Uganda,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.633333,13.4,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.283333,13.566667,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.133333,13.6,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.783333,15.366667,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.233333,13.583333,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.28333,13.56667,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.91667,14.91667,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.13333,13.6,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.016667,10.683333,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.4788,10.4178,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.03333,10.63333,Cameroon,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.22,30.31,Uganda,PRESENT,1986,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.125,29.375,South Africa,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.875,32.625,Zimbabwe,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,28.625,South Africa,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.333333,30.033333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.3,30.266667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.016667,30.083333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.066667,30.666667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.2,30.55,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.1,30.15,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.05,30.15,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.183333,30.183333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.183333,29.95,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.433333,30.566667,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.883333,29.333333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.95,30.166667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.833333,30.083333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.316667,29.65,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.266667,29.733333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.35,29.9,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.9,30.716667,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.516667,29.966667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.266667,29.616667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.516667,30.183333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.966667,30.15,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.65,30.133333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.283333,30.016667,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.9,29.833333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.9,30.183333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.3,30.733333,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.05,29.466667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.15,30.15,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.866667,29.983333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.883333,30.75,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.816667,30.2,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.066667,29.416667,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.266667,29.916667,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.133333,30.1,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.033333,30.166667,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.933333,29.3,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.266667,30.733333,Rwanda,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.3,29.683333,Burundi,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.34,34.57,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-7.9501,35.56,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.9957,34.8374,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.3718,35.5573,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.3298,35.3104,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-7.77,35.69,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-6.9418,39.0129,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.5798,35.324,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.82,35.3,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.2255,34.6993,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.76,35.16,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.91,33.56,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.04,34.92,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.8,33.64,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.4303,35.3511,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.0266,35.3737,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.28,34.38,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.91,33.98,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.88,35.01,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.72,35.23,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.89,33.98,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.4191,33.1444,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.5756,38.4873,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.35,33.67,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.46,33.35,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.92,33.39,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.4472,35.9484,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.9143,34.6562,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.6734,34.6193,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.55,33.76,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.4332,34.1735,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.57,33.83,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.333333,34.4,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-6.89,33.59,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.4851,34.5512,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.1024,33.2964,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.21,35.61,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-6.98,33.77,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.921,34.0963,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.0549,33.1715,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.48,33.7,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.7601,33.9701,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.1916,34.2343,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-6.1,33.95,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.24,33.26,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.5,33.4,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-6.7321,38.8128,"Tanzania, United Republic of",PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,31.125,South Africa,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.375,31.375,Eswatini,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,31.875,Eswatini,PRESENT,1985,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.375,28.625,South Africa,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.916667,47.516667,Madagascar,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.116667,31.583333,South Africa,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.375,32.375,South Africa,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.75,35.15,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.283333,36.766667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.633333,35.166667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.683333,34.766668,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.166667,34.15,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.9,34.6,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.3,35.2,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.05,34.766667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.583333,34.55,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.016667,34.733333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.966667,34.983333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.05,34.816667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2,37.183333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.116667,34.716667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.1,34.966667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.116667,34.433333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.783333,34.75,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.866667,34.883333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.85,34.566667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.116667,34.8,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.2,35.833333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.116667,34.683333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1,37.133333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.616667,35.2,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.066667,34.45,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.933333,37.116667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.583333,34.566667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.233333,35.55,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.05,34.95,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.016667,37.033333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.1,34.766667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.25,35.15,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.75,34.383333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.033333,34.616667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.75,35.05,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.35,35.033333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.083333,34.816667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.216667,39.416667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.066667,34.883333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.133333,36.983333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.016667,35,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.083333,39.466667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.1,39.416667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.883333,35,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.533333,35.083333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.183333,39.466667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.233333,39.466667,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.2,39.433333,Kenya,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.6,36.816667,Ethiopia,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.6,36.81666,Ethiopia,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,31.125,South Africa,PRESENT,1984,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-23.875,30.125,South Africa,PRESENT,1983,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,30.125,South Africa,PRESENT,1983,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.125,30.375,South Africa,PRESENT,1983,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-23.875,30.125,South Africa,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-20.125,32.625,Zimbabwe,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.316667,13.583333,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.666667,13.566667,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.166667,13.616667,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.46,12.63,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.7,13.55,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.229167,13.941667,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.23333,13.88333,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.16667,13.61667,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.66667,13.56667,Cameroon,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,30.625,South Africa,PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.3663,15.2995,"Congo, Democratic Republic of the",PRESENT,1982,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,29.125,South Africa,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.125,28.875,South Africa,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4,30.116667,Burundi,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.233333,13.933333,Cameroon,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.229167,13.941667,Cameroon,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.81667,39.63333,Kenya,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.533333,13.583333,Cameroon,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.316667,13.583333,Cameroon,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.125,32.375,South Africa,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.53333,13.55833,Cameroon,PRESENT,1981,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.875,31.625,South Africa,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.375,25.625,Zimbabwe,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4,29.5,Burundi,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.56667,34.28333,Mozambique,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.35,32.483333,Uganda,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.07,38.12,Kenya,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,11.333333,14.583333,Cameroon,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.333333,13.666667,Cameroon,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.33333,13.66667,Cameroon,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.717583,34.360987,Mozambique,PRESENT,1980,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.2,30.666667,Burundi,PRESENT,1979,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.166667,29.5,Burundi,PRESENT,1979,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-16.875,30.875,Zimbabwe,PRESENT,1979,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.55,13.916667,Cameroon,PRESENT,1979,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.13333,13.83333,Cameroon,PRESENT,1979,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.366667,29.45,Burundi,PRESENT,1979,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-27.625,31.125,South Africa,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.83333,34.8,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.71667,34.58333,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.68333,34.53333,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.61667,34.61667,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.58333,34.61667,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.983333,29.433333,Burundi,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.983334,29.433333,Burundi,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.65,34.8,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.783333,30.183333,Burundi,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-0.96667,34.81667,Kenya,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-2.4,30.533333,Rwanda,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.375,28.375,South Africa,PRESENT,1978,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,30.875,South Africa,PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,29.375,South Africa,PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.966667,29.433333,Burundi,PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.125,32.125,Eswatini,PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.11,14.31,Cameroon,PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-27.625,31.125,South Africa,PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.6,38.16667,"Tanzania, United Republic of",PRESENT,1977,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-27.375,31.125,South Africa,PRESENT,1976,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.4,36.36667,Ethiopia,PRESENT,1976,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.133333,13.833333,Cameroon,PRESENT,1976,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.55,13.916667,Cameroon,PRESENT,1976,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.625,28.625,South Africa,PRESENT,1975,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,30.875,South Africa,PRESENT,1975,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.5,41.883334,Ethiopia,PRESENT,1975,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.5,41.88333,Ethiopia,PRESENT,1975,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7,37.916667,Ethiopia,PRESENT,1975,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-27.375,31.125,South Africa,PRESENT,1975,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.40604,32.145428,Zimbabwe,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-12.5,16.133333,Angola,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-23.875,28.625,South Africa,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-13.166667,30.75,Zambia,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-13.153611,30.703611,Zambia,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-13.16667,30.75,Zambia,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.13333,47.28333,Madagascar,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.4,42.01667,Ethiopia,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.66667,36.88333,Ethiopia,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.95,13.7,Cameroon,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.63,10.66,Cameroon,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.133333,13.85,Cameroon,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.11667,13.83333,Cameroon,PRESENT,1974,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-23.125,29.875,South Africa,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,30.875,South Africa,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.875,30.875,South Africa,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-15.266667,28.416667,Zambia,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,14.133333,38.533333,Ethiopia,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.625,31.125,South Africa,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-17.625,23.375,Namibia,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-12.466667,15.183333,Angola,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-12.875,15.375,Angola,PRESENT,1973,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,30.875,South Africa,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.76,10.83,Cameroon,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.875,30.875,South Africa,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.375,28.875,South Africa,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,28.375,South Africa,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.783333,35.2,"Tanzania, United Republic of",PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.666667,8.833333,Nigeria,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.333333,12.8,Cameroon,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.33333,12.8,Cameroon,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.66667,36.83333,Ethiopia,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.63333,36.78333,Ethiopia,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.616667,13.566667,Cameroon,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.125,32.125,South Africa,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.61667,13.56667,Cameroon,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,28.625,South Africa,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.7,36.883334,Ethiopia,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.07,38.12,Kenya,PRESENT,1972,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,30.875,South Africa,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.4174,27.8011,"Congo, Democratic Republic of the",PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-12.875,15.625,Angola,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,27.125,South Africa,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.3833,27.8333,"Congo, Democratic Republic of the",PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,30.875,South Africa,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.6645,27.4762,"Congo, Democratic Republic of the",PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-5.7685,16.4545,"Congo, Democratic Republic of the",PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-7.3124,29.1427,"Congo, Democratic Republic of the",PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,0.28,37.5,Kenya,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.007596,4.500581,Nigeria,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-19.434805,33.294358,Mozambique,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.11667,10.65,Nigeria,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-16.875,26.375,Zambia,PRESENT,1971,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.125,17.625,Angola,PRESENT,1970,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.125,29.125,South Africa,PRESENT,1970,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-7.766667,34.225,"Tanzania, United Republic of",PRESENT,1970,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.6645,27.4762,"Congo, Democratic Republic of the",PRESENT,1970,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.854258,10.303018,Nigeria,PRESENT,1970,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.875,27.875,South Africa,PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-9.776,27.7824,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.9874,26.7363,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.6645,27.4762,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.671,27.7213,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-7.9105,26.7482,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.2174,26.074,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.9683,17.8331,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-10.766,25.3337,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.9317,27.2051,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-7.5987,29.9501,"Congo, Democratic Republic of the",PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.916667,36.5,Ethiopia,PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,13.25,37.88333,Ethiopia,PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.125,32.125,South Africa,PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.75,11.23,Cameroon,PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-30.875,30.375,South Africa,PRESENT,1969,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-19.125,32.625,Zimbabwe,PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,29.375,South Africa,PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.875,30.875,South Africa,PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-4.233333,39.416667,Kenya,PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.816667,30.933333,South Africa,PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-11.6705,27.4749,"Congo, Democratic Republic of the",PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.75,26.25,Zimbabwe,PRESENT,1968,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.375,29.375,South Africa,PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-19.125,32.625,Zimbabwe,PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-3.25,35.5,"Tanzania, United Republic of",PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.51,14.3,Cameroon,PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.7,10.66,Cameroon,PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.375,32.125,South Africa,PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.375,31.875,South Africa,PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.26667,35.71667,"Tanzania, United Republic of",PRESENT,1967,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.68,14.06,Cameroon,PRESENT,1966,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.38,11.33,Cameroon,PRESENT,1966,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.625,29.375,South Africa,PRESENT,1966,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-17.875,31.125,Zimbabwe,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.125,30.875,South Africa,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.875,32.625,Zimbabwe,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.88333,37.38333,Ethiopia,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.65,36.78333,Ethiopia,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.625,30.875,South Africa,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.325556,-4.376853,Côte d’Ivoire,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.375,27.375,South Africa,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.9,15.88333,Central African Republic,PRESENT,1965,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-23.625,30.125,South Africa,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-29.375,31.125,South Africa,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.625,28.625,South Africa,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-15.579148,34.317043,Mozambique,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.833333,24.8,Zambia,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.375,32.875,Zimbabwe,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,1.033333,35,Kenya,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-17.875,31.125,Zimbabwe,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.8,37.833333,Mozambique,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.38333,14.35,Cameroon,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.63333,14.25,Cameroon,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.56667,16.66667,Central African Republic,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.7,13.55,Cameroon,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.05,14.4,Cameroon,PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-8.902733,33.44338,"Tanzania, United Republic of",PRESENT,1964,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.66,10.83,Cameroon,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.5,10.16,Cameroon,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.666667,10.833334,Cameroon,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.866667,9.8,Cameroon,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.25,25.75,Zambia,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.7,12.61,Cameroon,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.53333,15.98333,Central African Republic,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.96667,15.56667,Central African Republic,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,6.88333,15.55,Central African Republic,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,5.73333,19.08333,Central African Republic,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-26.375,31.375,Eswatini,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.43333,18.48333,Central African Republic,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,4.83333,18,Central African Republic,PRESENT,1963,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-14.625,17.625,Angola,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-23.875,29.125,South Africa,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-22.625,31.375,South Africa,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-19.041667,46.383333,Madagascar,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.982838,8.895642,Nigeria,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.783333,35.2,"Tanzania, United Republic of",PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,10.798742,7.524724,Nigeria,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-27.125,30.375,South Africa,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-25.875,23.625,South Africa,PRESENT,1962,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-16,27.583333,Zambia,PRESENT,1961,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-24.875,30.875,South Africa,PRESENT,1961,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.25,35.833333,Kenya,PRESENT,1961,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-1.85,35.833333,Kenya,PRESENT,1961,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,9.183333,42.4,Ethiopia,PRESENT,1961,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-18.875,32.625,Zimbabwe,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-13.125,15.625,Angola,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-20.375,32.625,Zimbabwe,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.47498,4.54493,Nigeria,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.23,13.58,Cameroon,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,7.25,13.58333,Cameroon,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,8.626698,3.606585,Nigeria,PRESENT,1960,TRUE
+Brachiaria brizantha (A.Rich.) Stapf,-28.375,23.125,South Africa,PRESENT,1960,TRUE
